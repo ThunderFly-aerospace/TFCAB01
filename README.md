@@ -1,6 +1,8 @@
 # TFCAB01
 TFCABxxyy01 are silicone cables for PixHawk based drones. Cables are from booth side equipted with JST-GH plastic endings. Cables are designed and manufactured to have increased restistance to electromagnetic interference and cross-talk.
 
+## Where I can buy them? 
+Cables can be purchased online from Thunderfly Tindie store. Links to individual variants can be found in the following list.
 
 ## List of ThunderFly cables
 
