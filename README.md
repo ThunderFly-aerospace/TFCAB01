@@ -10,6 +10,12 @@ TFCABxxyy01 are silicone cables for PixHawk based drones. Cables are from booth 
  * TFCAB15CAN01 (CAN, 15cm)
  * TFCAB30CAN01 (CAN, 30cm)
  * TFCAB45CAN01 (CAN, 45cm)
+
+### Wires
+ * Insulation: Silicone, high temperature resistant (up to 200C)
+ *	Wire outer diameter: 1mm 
+	* Conductor: 26 AWG;  20/0.08, Tinned CU
+	* Wire ending: JST-GH
  
 ## Color scheme
 For easy orientation in avionics cabling cables have a common ThunderFly color scheme. Each type of signal/cable has own color combination. 
