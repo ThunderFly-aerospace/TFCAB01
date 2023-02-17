@@ -1,4 +1,4 @@
-# TFCAB01 - Thunderfly Pixhaw compatible cabling system
+# TFCAB01 - Thunderfly Pixhawk compatible cabling system
 
 TFCABxxyy01 are silicone cables for [Pixhawk](https://pixhawk.org/) based drones. The cables are from the both sides equipped with JST-GH high-streght plastic clips. Cables are designed and manufactured to have increased restistance to electromagnetic interference and self cross-talk.
 
