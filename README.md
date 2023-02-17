@@ -1,12 +1,14 @@
-# TFCAB01 - Thunderfly Pixhawk compatible cabling system
+# TFCAB01 - ThunderFly Pixhawk compatible cabling system
 
-TFCABxxyy01 are silicone cables for [Pixhawk](https://pixhawk.org/) based drones. The cables are from the both sides equipped with JST-GH high-streght plastic clips. Cables are designed and manufactured to have increased restistance to electromagnetic interference and self cross-talk.
+TFCABxxyy01 are silicone cables for [Pixhawk](https://pixhawk.org/) based drones. The cables are from the both sides equipped with JST-GH high-streght plastic clips. Cables are designed and manufactured to have increased resistance to electromagnetic interference and self cross-talk.
 
 ## Where I can buy them?
 
 Cables can be purchased online from Thunderfly Tindie store. Links to individual variants can be found in the following list.
 
 ## List of ThunderFly cables
+
+Currently, there are available cables mainly for I²C and UAVCAN busses, although [more cable variants are defined](https://docs.px4.io/main/en/assembly/cable_wiring.html). That less common variants of cables could be delivered upon request. 
 
  * TFCAB15I2C01 (I2C, 15cm)
  * TFCAB30I2C01 (I2C, 30cm)
@@ -27,7 +29,7 @@ Cables can be purchased online from Thunderfly Tindie store. Links to individual
 For easy orientation in avionics cabling cables we have designed a  ThunderFly color scheme.  The each type of signal/cable has own color combination, which is common in all our equipment.
 
 
-## I2C
+## I2C bus
 
 |Signal | Pixhawk Color | ThunderFly color |
 |--------|------------------|---------------------|
@@ -47,7 +49,7 @@ For easy orientation in avionics cabling cables we have designed a  ThunderFly c
 - 4 turns of both pairs together per 30cm cable length.
 
 
-## UAVCAN
+## UAVCAN bus
 
 |Signal | Pixhawk Color | ThunderFly color |
 |--------|------------------|---------------------|
