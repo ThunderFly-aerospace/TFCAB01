@@ -1,7 +1,9 @@
-# TFCAB01
-TFCABxxyy01 are silicone cables for PixHawk based drones. Cables are from booth side equipted with JST-GH plastic endings. Cables are designed and manufactured to have increased restistance to electromagnetic interference and cross-talk.
+# TFCAB01 - Thunderfly Pixhaw compatible cabling system
+
+TFCABxxyy01 are silicone cables for [Pixhawk](https://pixhawk.org/) based drones. The cables are from the both sides equipped with JST-GH high-streght plastic clips. Cables are designed and manufactured to have increased restistance to electromagnetic interference and self cross-talk.
 
 ## Where I can buy them?
+
 Cables can be purchased online from Thunderfly Tindie store. Links to individual variants can be found in the following list.
 
 ## List of ThunderFly cables
@@ -15,13 +17,14 @@ Cables can be purchased online from Thunderfly Tindie store. Links to individual
 
 ### Wires
 
- * Insulation: Silicone, high temperature resistant (up to 200C)
+ * Insulation: Silicone, high temperature resistant (up to 200 °C)
  * Wire outer diameter: 1mm
- * Conductor: 26 AWG;  20/0.08, Tinned CU
+ * Conductor: 26 AWG;  20/0.08, Sn plated Cu
  * Wire ending: JST-GH
 
 ## Color scheme
-For easy orientation in avionics cabling cables have a common ThunderFly color scheme. Each type of signal/cable has own color combination.
+
+For easy orientation in avionics cabling cables we have designed a  ThunderFly color scheme.  The each type of signal/cable has own color combination, which is common in all our equipment.
 
 
 ## I2C
@@ -38,7 +41,8 @@ For easy orientation in avionics cabling cables have a common ThunderFly color s
 
 
 
-#### Cable turning
+#### Cable twisting
+
 - 10 turns for each pair  SCL/+5V and SDA/GND per 30cm cable length
 - 4 turns of both pairs together per 30cm cable length.
 
@@ -56,6 +60,6 @@ For easy orientation in avionics cabling cables have a common ThunderFly color s
 ![ThunderFly CAN JST-GH connection cable](doc/img/jstgh_CAN.jpg)
 
 
-#### Cable turning
+#### Cable twisting
 - 10 turns for each pair GND/+5V and CAN_L/CAN_H per 30cm cable length
 - 4 turns of both pairs together per 30cm cable length.
