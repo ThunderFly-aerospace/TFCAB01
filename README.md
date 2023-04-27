@@ -2,9 +2,11 @@
 
 TFCABxxyy01 are silicone cables for [Pixhawk](https://pixhawk.org/) based drones. The cables are from the both sides equipped with JST-GH high-streght plastic clips. Cables are designed and manufactured to have increased resistance to electromagnetic interference and self cross-talk.
 
+![EOSR8726s](https://user-images.githubusercontent.com/5196729/234793444-a4d4c73b-5eb9-4614-a92b-722d95fa6c30.jpg)
+
 ## Where I can buy them?
 
-Cables can be purchased online from Thunderfly Tindie store. Links to individual variants can be found in the following list.
+Cables can be purchased online from Thunderfly Tindie store (soon) or contact ThunderFly team by email info@thunderfly.cz for individual quotation. Links to individual variants can be found in the following list.
 
 ## List of ThunderFly cables
 
