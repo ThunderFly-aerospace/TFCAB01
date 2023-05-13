@@ -32,4 +32,4 @@ We offer cables in lengths of 15, 30 and 45 cm for both I2C and CAN buses. The c
 
 
 ### Warning:
-Despite having the same type of connector and number of conductors, this cable is not recommended for use on the CAN bus. The CAN bus requires a different cable twisting that provides good resistance to EMI interference. The TFCAB15CAN cable is suitable for the CAN bus.
+Despite having the same type of connector and number of conductors, this cable is not recommended for use on the CAN bus. The CAN bus requires a different cable twisting that provides good resistance to EMI interference. The TFCABxxCAN01 cable is suitable for the CAN bus.
