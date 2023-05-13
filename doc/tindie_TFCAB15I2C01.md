@@ -1,17 +1,17 @@
 The [TFCAB15I2C01](https://github.com/ThunderFly-aerospace/TFCAB01) cable is the ideal solution for data transmission on the I2C bus in drones with avionics that conform to the [Pixhawk standard](https://github.com/pixhawk/Pixhawk-Standards/blob/master/DS-009%20Pixhawk%20Connector%20Standard.pdf). The cable is manufactured to high performance and reliable connection and a twisted design that reduces internal cross-talk and minimizes its own capacitance, ensuring a reliable and efficient transmission.
 
-The cable utilizes the original JST-GH plastic connectors, ensuring a secure and seamless connection between your drone's components. Used color scheme that corresponds to the ThunderFly color standard described in the [PX4 documentation](https://docs.px4.io/main/en/assembly/cable_wiring.html#i2c-cables), you can easily identify the type of bus to expect in the cable, reducing the possibility of incorrect connection.
+The cable utilizes the original JST-GH plastic connectors, ensuring a secure and seamless connection between your drone's components. The used color scheme that corresponds to the [ThunderFly](https://www.thunderfly.cz/) color standard described in the [PX4 documentation](https://docs.px4.io/main/en/assembly/cable_wiring.html#i2c-cables), you can easily identify the type of signals to expect in the cable, reducing the possibility of incorrect connection.
 
-The wires are made of high-quality tinned copper wires with silicone insulation, ensuring high flexibility and mechanical durability of the resulting cable. The silicone wire is a 26AWG with an outer diameter of 1.0 mm and high temperature resistance up to 200 C.
+The wires are made of high-quality tinned copper wires with silicone insulation, ensuring high flexibility and mechanical durability of the resulting cable. The silicone wire is a 26AWG with an outer diameter of 1.0 mm and short-term high-temperature resistance up to 200 °C.
 
 ### Parameters
 
- - Length: 15 cm
- - Connector: JST-GH
+ - Length: : 15, 30, and 45 cm (Choose the desired length after inserting it into the cart)
+ - Connector type: JST-GH
  - Number of pins: 4
- - Designed for: I2C
+ - Designed for: [I2C bus](https://en.wikipedia.org/wiki/I%C2%B2C)
 
-### Schematics
+### Pinout
 
 | Pin number | Color | Signal |
 | -------- | -------- | -------- |
@@ -31,5 +31,5 @@ We offer cables in lengths of 15, 30 and 45 cm for both I2C and CAN buses. The c
  - JST-GH CAN bus silicone cable 45 cm - [TFCAB45CAN01](https://www.tindie.com/products/thunderfly/tfcab15i2c01-45-cm-can-cable-for-pixhawk-drones/)
 
 
-### Warning:
+### Important note
 Despite having the same type of connector and number of conductors, this cable is not recommended for use on the CAN bus. The CAN bus requires a different cable twisting that provides good resistance to EMI interference. The TFCABxxCAN01 cable is suitable for the CAN bus.
