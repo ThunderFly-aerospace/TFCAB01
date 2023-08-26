@@ -1,6 +1,6 @@
 # TFCAB01 - ThunderFly Pixhawk compatible cabling system
 
-TFCABxxyy01 are silicone cables for [Pixhawk](https://pixhawk.org/) based drones. The cables are from the both sides equipped with JST-GH high-streght plastic clips. Cables are designed and manufactured to have increased resistance to electromagnetic interference and self cross-talk.
+TFCABxxyy01 are silicone cables for [Pixhawk](https://pixhawk.org/) based drones. The cables are equipped on both sides with JST-GH high-strength plastic clips, which feature a locking mechanism for good mechanical connection and resistance to vibrations. Cables are designed and manufactured to have increased resistance to electromagnetic interference and self cross-talk.
 
 ![](https://user-images.githubusercontent.com/5196729/234793444-a4d4c73b-5eb9-4614-a92b-722d95fa6c30.jpg)
 
@@ -26,6 +26,9 @@ Currently, there are available cables mainly for I²C and UAVCAN busses, althoug
  * Wire outer diameter: 1mm
  * Conductor: 26 AWG;  20/0.08, Sn plated Cu
  * Wire ending: JST-GH
+
+### Plastic endings
+We use original JST-GH connectors from the manufacturer JST  (JAPAN SOLDERLESS TERMINALS).
 
 ## Color scheme
 
