@@ -2,19 +2,20 @@
 
 TFCABxxyy01 are silicone cables for [Pixhawk](https://pixhawk.org/) based drones. The cables are from the both sides equipped with JST-GH high-streght plastic clips. Cables are designed and manufactured to have increased resistance to electromagnetic interference and self cross-talk.
 
-![EOSR8726s](https://user-images.githubusercontent.com/5196729/234793444-a4d4c73b-5eb9-4614-a92b-722d95fa6c30.jpg)
+![](https://user-images.githubusercontent.com/5196729/234793444-a4d4c73b-5eb9-4614-a92b-722d95fa6c30.jpg)
 
 ## Where I can buy them?
+<a href="https://www.tindie.com/stores/thunderfly/"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78" align="right"></a>
 
-Cables can be purchased online from Thunderfly Tindie store (soon) or contact ThunderFly team by email info@thunderfly.cz for individual quotation. Links to individual variants can be found in the following list.
+Cables can be purchased online from Thunderfly [Tindie store](https://www.tindie.com/stores/thunderfly/) or contact ThunderFly team by email info@thunderfly.cz for individual quotation. Links to individual variants can be found in the following list.
 
 ## List of ThunderFly cables
 
 Currently, there are available cables mainly for I²C and UAVCAN busses, although [more cable variants are defined](https://docs.px4.io/main/en/assembly/cable_wiring.html). That less common variants of cables could be delivered upon request. 
 
- * TFCAB15I2C01 (I2C, 15cm)
- * TFCAB30I2C01 (I2C, 30cm)
- * TFCAB45I2C01 (I2C, 45cm)
+ * TFCAB15I2C01 (I2C, 15cm), [buy it online](https://www.tindie.com/products/30113/)
+ * TFCAB30I2C01 (I2C, 30cm), [buy it online](https://www.tindie.com/products/30113/)
+ * TFCAB45I2C01 (I2C, 45cm), [buy it online](https://www.tindie.com/products/30113/)
  * TFCAB15CAN01 (CAN, 15cm)
  * TFCAB30CAN01 (CAN, 30cm)
  * TFCAB45CAN01 (CAN, 45cm)
