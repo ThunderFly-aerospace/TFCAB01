@@ -71,3 +71,20 @@ For easy orientation in avionics cabling cables we have designed a  ThunderFly c
 #### Cable twisting
 - 10 turns for each pair GND/+5V and CAN_L/CAN_H per 30cm cable length
 - 4 turns of both pairs together per 30cm cable length.
+
+
+## UART/TELEM/SERIAL
+
+UART is used to connect peripherals to the autopilot. By default, UART does not support networking and therefore it directly connects two devices together. It is often used to connect an autopilot and a [radio modem](https://github.com/ThunderFly-aerospace/TFSIK01). CTS and RTS are signals that are used to indicate that data is being transmitted on TX/RX pins. This hand-shake mechanism increases reliability of data transfer. CTS and RTS may remain loose when it is not used by the device.
+The connecting cable is not crossed. Therefore, it is necessary to connect only the autopilot and peripherals with this straight cable. The device must cross the wiring internally by swapping RX/TX and RTS/CTS pins.
+
+|Signal| Pixhawk Color | ThunderFly color |
+|--------|------------------|---------------------|
+| +5V  |     Red  |  ![red](https://user-images.githubusercontent.com/5196729/102204855-ab1c3300-3eca-11eb-8083-646d633e3aef.png) Red   |
+| TX  |     Black  |  ![white](https://user-images.githubusercontent.com/5196729/102204632-5e385c80-3eca-11eb-985d-a881acfae26a.png)  White  | 
+| RX |      Black  | ![green](https://user-images.githubusercontent.com/5196729/102205114-04846200-3ecb-11eb-8eb8-251c7e564707.png) Green  | 
+| CTS |    Black  |   ![blue](https://user-images.githubusercontent.com/5196729/102205102-ffbfae00-3eca-11eb-9372-8406f7a4aa9d.png) Blue |
+| RTS |    Black  |  ![yellow](https://user-images.githubusercontent.com/5196729/102204908-bc653f80-3eca-11eb-9a1d-a02ea5481c03.png) Yellow |
+| GND |   Black  |   ![black](https://user-images.githubusercontent.com/5196729/102205213-28e03e80-3ecb-11eb-95bb-7ba207360541.png) Black |
+
+UART signals are common sources of low frequency EMI, therefore the length of the cable should be minimized as much as possible. Cable twisting is not applicable for UART cables due to possible increase of cross-talks. 
