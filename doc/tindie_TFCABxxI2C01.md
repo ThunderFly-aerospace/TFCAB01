@@ -16,9 +16,9 @@ The wires are made of high-quality tinned copper wires with silicone insulation,
 | Pin number | Color | Signal |
 | -------- | -------- | -------- |
 | 1 | Red | VCC (5.4V) |
-| 1 | Yellow | SCL |
-| 1 | Green | SDA |
-| 1 | Black | GND |
+| 2 | Yellow | SCL |
+| 3 | Green | SDA |
+| 4 | Black | GND |
 
 #### Important note
 Despite having the same type of connector and number of conductors, this cable is not recommended for use on the CAN bus. The CAN bus requires a different cable twisting that provides good resistance to EMI interference. The TFCABxxCAN01 cable is suitable for the CAN bus.
